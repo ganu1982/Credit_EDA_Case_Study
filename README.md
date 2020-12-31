@@ -1,0 +1,2 @@
+# Credit_EDA_Case_Study
+The Case Study is created for Academic purpose to assess the EDA skills  Exploratory Data Analysis on the Credit Applications of customers of a Finance Company  • Objectives: Identify patterns which indicate if a client has payment difficulty with their instalments. Understand the driving factors behind loan default, i.e. the variables that are strong indicators of default. Provide a set of insights which may then be used for actions such as denying the loan, reducing the amount of loan etc.
